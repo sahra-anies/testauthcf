@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"testauthcf": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
